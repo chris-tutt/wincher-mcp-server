@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Wincher MCP Server specific
+.env
+.env.local
+*.key
+claude_desktop_config.json
+wincher-mcp-env/
+*-mcp-env/
+rankings_export.csv
+competitor_data.json
